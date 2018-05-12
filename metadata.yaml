@@ -1,0 +1,39 @@
+_repo: '-----_34881'
+_version: 0.1.0
+alternative_title: Meno
+contributor:
+  translator:
+    agent_name: Papantoniou, Ch.
+    aliases:
+    - Παπαντωνίου, Χαρίλαος
+    - Papantoniou, Charilaos
+    gutenberg_agent_id: '37298'
+    url: http://www.gutenberg.org/2009/agents/37298
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2011-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34881'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Virtue -- Early works to 1800'
+- !lcc 'B'
+- !lcsh 'Socrates, 470 BC-399 BC'
+title: Μένων
+url: http://www.gutenberg.org/ebooks/34881
